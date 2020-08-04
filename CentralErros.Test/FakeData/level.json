@@ -1,0 +1,14 @@
+﻿[
+    {
+        "IdLevel": 1,
+        "LevelName": "error"
+    },
+    {
+        "IdLevel": 2,
+        "LevelName": "warn"
+    },
+    {
+        "IdLevel": 3,
+        "LevelName": "debug"
+    }
+]
